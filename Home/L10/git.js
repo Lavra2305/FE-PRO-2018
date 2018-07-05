@@ -10,3 +10,6 @@ document.write('res = ', res);
 document.write('<hr />');
 //--------Part 2------------
 document.write('Part 2', '<br />');
+
+var arr = [];
+arr [20] = 'end';
