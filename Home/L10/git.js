@@ -13,3 +13,7 @@ document.write('Part 2', '<br />');
 
 var arr = [];
 arr [20] = 'end';
+
+for (i = 0; i < arr.length; i++) {
+    arr[i] = 's' + i;
+}
