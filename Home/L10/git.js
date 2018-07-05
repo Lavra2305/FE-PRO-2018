@@ -6,4 +6,5 @@ function f() {
 }
 
 var res = f(2,5);
-console.log (res);
+document.write('res = ', res);
+document.write('<hr />');
