@@ -8,3 +8,9 @@ function f() {
 var res = f(2,5);
 document.write('res = ', res);
 document.write('<hr />');
+
+var obj = {
+    x: 10,
+    y: 20,
+    func: func(a,b) 
+}
