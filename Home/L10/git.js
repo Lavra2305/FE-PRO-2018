@@ -9,4 +9,4 @@ var res = f(2,5);
 document.write('res = ', res);
 document.write('<hr />');
 //--------Part 2------------
-
+document.write('Part 2', '<br />');
