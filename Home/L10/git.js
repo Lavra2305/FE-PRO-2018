@@ -14,3 +14,7 @@ var obj = {
     y: 30,
     func: func(a,b) 
 }
+function func () {
+    var d = 40;
+    return a * b - d;
+}
