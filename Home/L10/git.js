@@ -8,3 +8,5 @@ function f() {
 var res = f(2,5);
 document.write('res = ', res);
 document.write('<hr />');
+//--------Part 2------------
+
