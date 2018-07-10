@@ -9,3 +9,10 @@ for (i = 0; i < n; i++) {
         document.write(arr[i][j]);
     } document.write('<br />');
 }
+sum = 0;
+for (i = 0; i < n; i++) {
+    for (j = 0; j < m; j ++) {
+        sum += arr[i][j];       
+    } console.log(sum);
+    
+}
