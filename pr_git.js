@@ -1,6 +1,6 @@
 var arr = [];
-n = 10;
-m = 7;
+n = m = 10;
+
 max = 60;
 min = 0;
 for (i = 0; i < n; i++) {
